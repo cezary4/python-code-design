@@ -87,3 +87,4 @@ if __name__ == '__main__':
     print "CandidateAdvanced.full_name (inherited method): %s" % cand2.full_name()
     print "CandidateAdvanced.name_and_party (custom method): %s" % cand2.name_and_party()
     print
+    
