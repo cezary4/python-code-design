@@ -1,0 +1,4 @@
+Note:
+
+election_results.py is the original election results code, written for python 2.7
+election_results.refactored.py is the election results code, refactored for python 3.4
